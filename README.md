@@ -41,3 +41,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vini5474&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vini5474&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-sheme: dark)" srcset="https://raw.githubusercontent.com/vini5474/vini5474/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-sheme: light)" srcset="https://raw.githubusercontent.com/vini5474/vini5474/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vini5474/vini5474/output/github-contribution-grid-snake-dark.svg">
+<picture>
+<br><br>

@@ -1,4 +1,4 @@
-## Hi I'm Vinicius Gabriel 👋
+## Hi, I'm Vinicius Gabriel 👋
 
 - 🔭 I'm studying system development at Senai.
 
